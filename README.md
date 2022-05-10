@@ -1,4 +1,6 @@
 # Cumulocity IoT Device Management Reference Agent
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDsekida%2Fcumulocity-devicemanagement-agent-1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDsekida%2Fcumulocity-devicemanagement-agent-1?ref=badge_shield)
+
 Cumulocity Device Management (DM) Reference Agent written in Python3 to demonstrate most of the [Device Management Capabilities](https://cumulocity.com/guides/users-guide/device-management/) of [Cumulocity IoT](https://www.softwareag.cloud/site/product/cumulocity-iot.html)
 
 # Quick Start
@@ -288,3 +290,7 @@ _____________________
 These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
 
 For more information you can Ask a Question in the [Tech Community Forums](https://tech.forums.softwareag.com/tag/Cumulocity-IoT).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDsekida%2Fcumulocity-devicemanagement-agent-1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDsekida%2Fcumulocity-devicemanagement-agent-1?ref=badge_large)
